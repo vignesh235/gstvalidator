@@ -1,11 +1,18 @@
 name: gstvalidator
 description: "A Flutter package for validating GST (Goods and Services Tax) numbers."
-version: 0.0.1
+version: 0.0.5
 homepage:
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
   flutter: ">=1.17.0"
+
+repository: https://github.com/vignesh235/gstvalidator
+
+platforms:
+  ios: 
+  android:
+  web: 
 
 dependencies:
   flutter:
